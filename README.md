@@ -1,4 +1,4 @@
-# shop-appp
+# shop-app
 
 ## Project setup
 ```
